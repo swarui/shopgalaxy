@@ -1,8 +1,8 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-md p-4">
+    <nav  style={{fontFamily:'Outfit'}} className="bg-white shadow-md p-4">
       <ul className="flex space-x-6 text-lg font-medium text-gray-800">
         <li>
           <Link href="/">Home</Link>
