@@ -21,7 +21,7 @@ export default function Page() {
         </section>
 
         {/* Swiper Section - properly centered */}
-        <section className="flex items-center justify-center min-h-[60vh] mt-12">
+        <section className="flex items-center justify-center min-h-[60vh] mt-8">
           <div className="w-full max-w-6xl mx-auto px-4">
             <Swiper
               spaceBetween={50}
