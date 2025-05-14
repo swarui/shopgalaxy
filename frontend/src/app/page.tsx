@@ -95,7 +95,7 @@ export default function Page() {
                   </div>
                   <div className="md:w-2/5 flex justify-center items-center">
                     <img
-                      src="/images/anker.png"
+                      src="/images/6.png"
                       alt="Anker Buds"
                       className="w-full max-w-[280px] h-auto rounded-lg object-contain"
                     />
